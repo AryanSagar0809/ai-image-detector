@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+
+# dataset is too large for GitHub; download it from Kaggle instead
+data/
+
+# old or experimental files
+outputs/*_OLD.pt
+my_images/

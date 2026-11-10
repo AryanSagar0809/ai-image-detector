@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Params
+Baseline CNN (spatial),0.9524,0.9459,0.9597,0.9527,0.9908,102017
+Dual-branch CNN (spatial + FFT),0.9508,0.9538,0.9474,0.9506,0.9893,203329
